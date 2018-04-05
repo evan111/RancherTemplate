@@ -1,8 +1,9 @@
-name: # Name of the Catalog Entry
-description: |
-  # Description of the Catalog Entry
-version: # Version of the Catalog to be used
-category: # Category to be used for searching catalog entries
-maintainer: # The maintainer of the catalog entry
-license: # The license
-projectURL: # A URL related to the catalog entry
+---
+name: DigitalOcean K*s
+description: >
+  Add flex volume support for digitalocean
+version: 0.0.1-rancher1
+category: DigitalOcean
+maintainer: Evan Hegyi <evan@evanhegyi.com>
+license: MIT
+projectURL: https://github.com/evan111/RancherTemplate
