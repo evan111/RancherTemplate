@@ -2,7 +2,7 @@
 name: DigitalOcean K*s
 description: >
   Add flex volume support for digitalocean
-version: 0.0.1-rancher1
+version: v1.3.0-rancher4
 category: DigitalOcean
 maintainer: Evan Hegyi <evan@evanhegyi.com>
 license: MIT

@@ -1,0 +1,1 @@
+Copied from: https://github.com/rancher/rancher-catalog/tree/v1.6-development/templates/k8s/11
